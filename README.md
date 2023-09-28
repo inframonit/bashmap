@@ -1,0 +1,2 @@
+# bashmap
+mapping thorugh bash
